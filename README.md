@@ -28,7 +28,7 @@ See the [Course Workbook Project Page](https://hacking-history.readthedocs.io/pr
 ## Past Project Examples
 
 * [Confederate Memorials](http://confederate-memorials-project.readthedocs.io/)
-* [The Slave Ledges](http://slave-ledger.readthedocs.io/en/latest/)
+* [The Slave Ledgers](http://slave-ledger.readthedocs.io/en/latest/)
 * [An Teanga Sean: The Celtic Languages](http://an-teanga-sean-the-celtic-languages.readthedocs.io/)
 
 ---

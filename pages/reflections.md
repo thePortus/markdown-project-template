@@ -17,3 +17,5 @@ What problems stopped you dead in the water? Did you have to change course mid-p
 Moving on from problems, let's the reader on a positive note. What worked best, where did you think the strength of the project was? What were the most useful historical insights? What were the most useful tools?
 
 Finally, think of future attempts to continue this line of research, whether by yourself or others. Where do you want to go with it. What areas do you think could be expanded easily? You can discuss what you wish you could have done but could not due to lack of time/skill/et.c. But, much more than that, what would you suggest would be the most useful thing(s) you think could actually be accomplished in the space of another semester?
+
+[See a sample reflections page here](https://confederate-memorials-project.readthedocs.io/en/latest/problems-encountered/).

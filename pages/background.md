@@ -12,6 +12,8 @@ Put a general discussion of your topic here. Don't get into the historiography o
 
 YOU SHOULD BE COPIOUS AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
 
+Check out this [Check out a sample background here](https://confederate-memorials-project.readthedocs.io/en/latest/digital-methods-and-historical-scholarship/).
+
 ---
 
 ## Historical Background

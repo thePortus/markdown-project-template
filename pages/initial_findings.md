@@ -10,6 +10,12 @@
 
 This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with. In fact, this is where you tell the reader what it is you discovered. You can use the first person if that helps you discuss the process. This is where you both describe to the reader what they are looking at (if they are looking at a visualization) and, most importantly, what your interpretation of the results is.
 
+[Check out a sample initial findings page here](https://confederate-memorials-project.readthedocs.io/en/latest/initial-findings/).
+
+[Check out another sample intial findings page here](https://slave-ledger.readthedocs.io/en/latest/visualizations/).
+
+[Check out yet another sample initial findings page here](https://an-teanga-sean-the-celtic-languages.readthedocs.io/en/latest/visualizations/).
+
 If you want to add an image with a caption you can do it like this....
 
 <figure>
