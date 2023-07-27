@@ -1,4 +1,4 @@
-# Replace This Title!
+# A Brief History of Digital Scholarship
 
 ---
 
@@ -8,9 +8,9 @@
 
 ---
 
-![Replace Me, Sample Image]({{site.baseurl}}/assets/images/caesarian_code.png)
+![Samuel Clemens & Dorothea Lagne's "Migrant Mother" overlaid with AngularJS]({{site.baseurl}}/assets/images/angular-clemens-migrant.jpg)
 
-*Put a caption to your image here, if you want*
+*Samuel Clemens & Dorothea Lagne's "Migrant Mother*
 
 1. Put an intro image above (if you want)
 2. Change the 1st line of this file to the name of your project
